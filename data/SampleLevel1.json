@@ -2,7 +2,7 @@
     "id": 26681070,
     "name": "Sonic Wave",
     "author": "LSunix",
-    "creators": "Cyclic",
+    "creators": ["Cyclic"],
     "verifier": "LSunix",
     "verification": "https://youtu.be/GpXTwPgweAk?si=zpa2ra4t45iWDTOM",
     "percentToQualify": 100,
